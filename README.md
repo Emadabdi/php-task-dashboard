@@ -33,4 +33,4 @@ This project demonstrates a clean and minimal MVC architecture built with plain 
 2. Place project inside `htdocs`
 3. Create database `task_dashboard`
 4. Create `tasks` table
-5. Open `http://localhost/php-task-dashboard/public`
+5. Open `http://localhost//php-task-dashboard/php-mvc-task-dashboard/public`
